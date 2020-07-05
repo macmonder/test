@@ -9,3 +9,5 @@ me = {
 }
 
 me["fruits"].append('test')
+
+print("test")
