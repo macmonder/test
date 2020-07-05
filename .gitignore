@@ -1,0 +1,8 @@
+/venv/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/Selftought/strings.py
+/.idea/test.iml
+/.idea/vcs.xml
