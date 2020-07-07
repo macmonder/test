@@ -18,4 +18,6 @@ for i, word in enumerate(var):
     var[i] = word.upper()
     print(i)
 
+    print('Apple')
+
 print(var)

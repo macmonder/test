@@ -7,3 +7,4 @@ myList[1] = 'test'
 myList.pop(2)
 
 print(myList)
+print(myList[1])
